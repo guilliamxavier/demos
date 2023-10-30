@@ -4,7 +4,7 @@
 
 - maze solver (parallel BFS, iterators): https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=e7c41836b58cf1aa51e350b5dab28a7f
 - JSON parser/formatter (full crate with doc): https://github.com/guilliamxavier/rustic_json
-- LZW-like (de)compression (memory-*in*efficient but rather fast): https://play.rust-lang.org/?version=stable&mode=release&edition=2021&gist=a12d84b4a3a7115f9f62393bd0d759b3
+- LZW-like (de)compression (memory-*in*efficient but rather fast): https://play.rust-lang.org/?version=stable&mode=release&edition=2021&gist=b589b5f80645bc6477cbd78b0779da6a
 
 ## PHP (older)
 
